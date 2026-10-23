@@ -1,0 +1,12 @@
+{
+  "pet": "cat",
+  "color": "cottoncandy",
+  "name": "Buddy 17",
+  "scale": 4,
+  "follow": false,
+  "mood": 80,
+  "x": 1,
+  "y": 1016,
+  "toy_kind": "tennis",
+  "chatter": true
+}

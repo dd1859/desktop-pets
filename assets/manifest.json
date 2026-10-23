@@ -1,0 +1,252 @@
+{
+  "credit": {
+    "name": "Pop Shop Packs",
+    "url": "https://pop-shop-packs.itch.io",
+    "packs": [
+      {
+        "title": "Cat || Pixel Asset Pack",
+        "url": "https://pop-shop-packs.itch.io/tiny-cat-pixel-asset-pack"
+      },
+      {
+        "title": "Tiny Axolotl",
+        "url": "https://pop-shop-packs.itch.io/tiny-axolotl"
+      }
+    ],
+    "license": "Free to use in personal and commercial projects as part of a project. Do not resell, redistribute as a game asset, or use as NFTs. See the pack pages for full terms."
+  },
+  "pets": {
+    "cat": {
+      "label": "Tiny Cat",
+      "default_name": "Mochi",
+      "sheet": {
+        "w": 64,
+        "h": 512,
+        "cell": 16
+      },
+      "colors": [
+        {
+          "id": "orange-00",
+          "label": "Orange",
+          "file": "cat/orange-00.png"
+        },
+        {
+          "id": "orange-01",
+          "label": "Orange Tabby",
+          "file": "cat/orange-01.png"
+        },
+        {
+          "id": "orange-02",
+          "label": "Orange Cream",
+          "file": "cat/orange-02.png"
+        },
+        {
+          "id": "black-00",
+          "label": "Black",
+          "file": "cat/black-00.png"
+        },
+        {
+          "id": "black-01",
+          "label": "Black Smoke",
+          "file": "cat/black-01.png"
+        },
+        {
+          "id": "white-00",
+          "label": "White",
+          "file": "cat/white-00.png"
+        },
+        {
+          "id": "grey-00",
+          "label": "Grey",
+          "file": "cat/grey-00.png"
+        },
+        {
+          "id": "grey-01",
+          "label": "Grey Tabby",
+          "file": "cat/grey-01.png"
+        },
+        {
+          "id": "brown-00",
+          "label": "Brown",
+          "file": "cat/brown-00.png"
+        },
+        {
+          "id": "brown-01",
+          "label": "Brown Tabby",
+          "file": "cat/brown-01.png"
+        },
+        {
+          "id": "calico-00",
+          "label": "Calico",
+          "file": "cat/calico-00.png"
+        },
+        {
+          "id": "creme-00",
+          "label": "Creme",
+          "file": "cat/creme-00.png"
+        },
+        {
+          "id": "tan-00",
+          "label": "Tan",
+          "file": "cat/tan-00.png"
+        },
+        {
+          "id": "cottoncandy",
+          "label": "Cotton Candy",
+          "file": "cat/cottoncandy.png"
+        },
+        {
+          "id": "hairless-00",
+          "label": "Hairless",
+          "file": "cat/hairless-00.png"
+        },
+        {
+          "id": "ghost",
+          "label": "Ghost",
+          "file": "cat/ghost.png"
+        },
+        {
+          "id": "retrogreen",
+          "label": "Retro Green",
+          "file": "cat/retrogreen.png"
+        },
+        {
+          "id": "greyscale",
+          "label": "Greyscale",
+          "file": "cat/greyscale.png"
+        }
+      ]
+    },
+    "axolotl": {
+      "label": "Tiny Axolotl",
+      "default_name": "Axel",
+      "sheet": {
+        "w": 128,
+        "h": 256,
+        "cell": 16
+      },
+      "colors": [
+        {
+          "id": "pink",
+          "label": "Pink",
+          "file": "axolotl/pink.png"
+        },
+        {
+          "id": "rose-pink",
+          "label": "Rose Pink",
+          "file": "axolotl/rose-pink.png"
+        },
+        {
+          "id": "albino",
+          "label": "Albino",
+          "file": "axolotl/albino.png"
+        },
+        {
+          "id": "black",
+          "label": "Black",
+          "file": "axolotl/black.png"
+        },
+        {
+          "id": "blue00",
+          "label": "Blue",
+          "file": "axolotl/blue00.png"
+        },
+        {
+          "id": "blue01",
+          "label": "Blue Jay",
+          "file": "axolotl/blue01.png"
+        },
+        {
+          "id": "brown",
+          "label": "Brown",
+          "file": "axolotl/brown.png"
+        },
+        {
+          "id": "dark-orange",
+          "label": "Dark Orange",
+          "file": "axolotl/dark-orange.png"
+        },
+        {
+          "id": "dark-purple",
+          "label": "Dark Purple",
+          "file": "axolotl/dark-purple.png"
+        },
+        {
+          "id": "yellow",
+          "label": "Yellow",
+          "file": "axolotl/yellow.png"
+        },
+        {
+          "id": "yellow-green",
+          "label": "Yellow Green",
+          "file": "axolotl/yellow-green.png"
+        },
+        {
+          "id": "swamp-green",
+          "label": "Swamp Green",
+          "file": "axolotl/swamp-green.png"
+        },
+        {
+          "id": "red",
+          "label": "Red",
+          "file": "axolotl/red.png"
+        },
+        {
+          "id": "tan",
+          "label": "Tan",
+          "file": "axolotl/tan.png"
+        },
+        {
+          "id": "greyscale",
+          "label": "Greyscale",
+          "file": "axolotl/greyscale.png"
+        },
+        {
+          "id": "retrogreen",
+          "label": "Retro Green",
+          "file": "axolotl/retrogreen.png"
+        }
+      ]
+    },
+    "frog": {
+      "label": "Frog",
+      "default_name": "Pip",
+      "sheet": {
+        "w": 512,
+        "h": 512,
+        "cell": 32
+      },
+      "colors": [
+        {
+          "id": "blue",
+          "label": "Blue",
+          "file": "frog/blue.png"
+        },
+        {
+          "id": "brown",
+          "label": "Brown",
+          "file": "frog/brown.png"
+        },
+        {
+          "id": "gameboy-b-w",
+          "label": "Game Boy",
+          "file": "frog/gameboy-b-w.png"
+        },
+        {
+          "id": "gameboy-green",
+          "label": "Game Boy Green",
+          "file": "frog/gameboy-green.png"
+        },
+        {
+          "id": "green",
+          "label": "Green",
+          "file": "frog/green.png"
+        },
+        {
+          "id": "purple",
+          "label": "Purple",
+          "file": "frog/purple.png"
+        }
+      ]
+    }
+  }
+}

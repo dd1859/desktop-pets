@@ -1,0 +1,12 @@
+{
+  "pet": "cat",
+  "color": "orange-00",
+  "name": "Mochi",
+  "scale": 4,
+  "follow": false,
+  "mood": 80,
+  "x": 0,
+  "y": 1016,
+  "toy_kind": "tennis",
+  "chatter": true
+}
